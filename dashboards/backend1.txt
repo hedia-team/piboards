@@ -1,2 +1,6 @@
-https://trains.hedia.org/trains?depart=4
-https://odometer.hedia.dev/dashboards/test
+https://brand.hedia.com/values/1
+https://brand.hedia.com/values/2
+https://brand.hedia.com/values/3
+https://brand.hedia.com/values/4
+https://brand.hedia.com/values/5
+https://brand.hedia.com/values/6
