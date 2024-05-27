@@ -1,1 +1,1 @@
-https://trains.hedia.org/trains?depart=4
+https://dashboard.hedia.org/dashboards/f71dd122-42ee-48b1-8933-5e84bc0a7b2c

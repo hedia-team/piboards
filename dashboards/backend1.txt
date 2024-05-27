@@ -1,6 +1,1 @@
-https://brand.hedia.com/values/1
-https://brand.hedia.com/values/2
-https://brand.hedia.com/values/3
-https://brand.hedia.com/values/4
-https://brand.hedia.com/values/5
-https://brand.hedia.com/values/6
+https://dashboard.hedia.org/dashboards/5a2eed69-fbb3-4b15-9e00-0da6aa62379b
